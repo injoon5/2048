@@ -1,10 +1,10 @@
-@import url(fonts/clear-sans.css);
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
   color: #776e65;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Clear Sans", NanumSquare, sans-serif;
   font-size: 18px; }
 
 body {
